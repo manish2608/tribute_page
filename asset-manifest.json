@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tribute_page/static/css/main.59be287a.css",
+    "main.js": "/tribute_page/static/js/main.067d6424.js",
+    "static/js/787.f29c495a.chunk.js": "/tribute_page/static/js/787.f29c495a.chunk.js",
+    "static/media/Lata_Mangeshkar.jpg": "/tribute_page/static/media/Lata_Mangeshkar.91e16f71b26e311f18f8.jpg",
+    "index.html": "/tribute_page/index.html",
+    "main.59be287a.css.map": "/tribute_page/static/css/main.59be287a.css.map",
+    "main.067d6424.js.map": "/tribute_page/static/js/main.067d6424.js.map",
+    "787.f29c495a.chunk.js.map": "/tribute_page/static/js/787.f29c495a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59be287a.css",
+    "static/js/main.067d6424.js"
+  ]
+}
